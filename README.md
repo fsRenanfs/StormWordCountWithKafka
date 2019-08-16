@@ -1,0 +1,1 @@
+Storm project to test Kafka input and output
